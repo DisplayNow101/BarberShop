@@ -15,5 +15,5 @@ Probamos el test con los formularios si reciben la validacion correspondientes c
 Mas abajo creamos unos testeo utilizando unittest para los strings del sistema
 
 *Comparando si son iguales
-*Si escribren en mayusculas o minusculas
+*Si escriben en mayusculas o minusculas
 *Por separado
