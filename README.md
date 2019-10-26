@@ -6,14 +6,14 @@ Proyecto Encargo N°2
 
 Testeamos el cliente con TestCase
 
-creamos 2 funciones una que crea el objecto de user y el otro que recibe la instancia comparando el usuario User del sistema con el usuario recien creado.
+Creamos 2 funciones una que crea el objecto de user y el otro que recibe la instancia comparando el usuario User del sistema con el usuario recien creado.
 
-creamos otra funcion para el update , el mismo procedimiento solo cambie que recibe como parametro de entrada la id para identificar que usuario quiere modificar.
+Creamos otra funcion para el update , el mismo procedimiento solo cambie que recibe como parametro de entrada la id para identificar que usuario quiere modificar.
 
-probamos el test con los formularios si reciben la validacion correspondientes creados en el forms.py 
+Probamos el test con los formularios si reciben la validacion correspondientes creados en el forms.py 
 
-mas abajo creamos unos testeo utilizando unittest para los strings del sistema
+Mas abajo creamos unos testeo utilizando unittest para los strings del sistema
 
 *Comparando si son iguales
-*Si escribern en mayusculas o minusculas
+*Si escribren en mayusculas o minusculas
 *Por separado
