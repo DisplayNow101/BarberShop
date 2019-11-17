@@ -2,12 +2,12 @@
 Proyecto Encargo N°2
 
 Login Administrador:
-usuario: eduardo 
-contraseña: eduardo
+usuario= eduardo 
+contraseña= eduardo
 
 Login Cliente:
-usuario: marcelo
-contraseña: eduardo77
+usuario= marcelo
+contraseña= eduardo77
 
 En la parte del administrador al registrar al usuario en la parte de añadir user ahi es donde pertenece el login para los usuarios cuando se crea el user se puede utilizar de id en la pagina de registro de usuario ahi lo ocupamos para llenar con los demas atributos del cliente , en el Listar colocamos la funcion de eliminar y modificar como reciben una id es mas facil de esta manera que escribiendo en la url , asi lo hace automaticamente.
 
