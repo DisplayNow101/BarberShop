@@ -2,7 +2,9 @@
 Proyecto Encargo N°2
 
 Login Administrador:
+
 usuario: eduardo
+
 contraseña: eduardo
 
 Login Cliente:
