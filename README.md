@@ -1,6 +1,14 @@
 # BarberShop
 Proyecto Encargo N°2
 
+Login Administrador:
+usuario: eduardo
+contraseña: eduardo
+
+Login Cliente:
+usuario: marcelo
+contraseña: eduardo77
+
 
 #Test del cliente , ya como extendimos el usuario user para agregar mas atributos y
 #Asi sea mas facil el logeo de multiusuario (administrador,cliente) 
