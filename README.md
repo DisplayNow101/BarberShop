@@ -1,5 +1,7 @@
 # BarberShop
 Proyecto Encargo N°2
+
+
 #Test del cliente , ya como extendimos el usuario user para agregar mas atributos y
 #Asi sea mas facil el logeo de multiusuario (administrador,cliente) 
 #Nuestro modelo Cliente recibe la foreignkey del user.
