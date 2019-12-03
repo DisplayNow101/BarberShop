@@ -32,3 +32,10 @@ Mas abajo creamos unos testeo utilizando unittest para los strings del sistema
 *Comparando si son iguales
 *Si escriben en mayusculas o minusculas
 *Por separado
+
+
+Creamos un archivo llamado "serializers.py", donde hicimos un serializador de Cliente. Ahi importamos el rest_framework y la clase Cliente
+
+En "views.py" creamos una clase llamada "ClienteViewSet", que nos permite crear la consulta a la BD en JSON
+
+En urls.py hicimos un import routers para poder definir la ruta a la api
